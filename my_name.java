@@ -1,4 +1,4 @@
-class hello
+class my_name
 {
-System.out.println("Hello");
+System.out.println("Suyog");
 }
